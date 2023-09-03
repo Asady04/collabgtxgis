@@ -96,14 +96,8 @@ public class PlayerMove : MonoBehaviour
         }
     }
  
-    void FixedUpdateUpdate()
+    void FixedUpdate()
     {
-        
-    }
- 
-    void Update()
-    {
-        AnimationState();
         if (MoveRight)
         {
             rb.velocity = new Vector3(MoveSpeed, rb.velocity.y, 0f);
@@ -124,5 +118,10 @@ public class PlayerMove : MonoBehaviour
         {
             rb.velocity = Vector3.zero;
         }
+    }
+ 
+    void Update()
+    {
+        AnimationState();
     }
 }

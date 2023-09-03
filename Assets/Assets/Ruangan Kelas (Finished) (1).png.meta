@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d561fa70845899d4883dc7bcb1fc97fb
+guid: 95f9b814bd5eae440bbc87c506eea4ec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -102867142131437645
-    second: Ruangan Kelas (Finished)_0
+      213: 1422749608886348638
+    second: Ruangan Kelas (Finished) (1)_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ruangan Kelas (Finished)_0
+      name: Ruangan Kelas (Finished) (1)_0
       rect:
         serializedVersion: 2
         x: 18
@@ -148,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bf223611ea829ef0800000000000000
-      internalID: -102867142131437645
+      spriteID: e5b2ff13b3f9eb310800000000000000
+      internalID: 1422749608886348638
       vertices: []
       indices: 
       edges: []

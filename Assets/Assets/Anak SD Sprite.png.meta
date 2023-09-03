@@ -304,8 +304,8 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 2509
-        width: 150
-        height: 527
+        width: 487
+        height: 543
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: Anak SD Sprite_1
       rect:
         serializedVersion: 2
-        x: 878
-        y: 2504
-        width: 84
-        height: 529
+        x: 877
+        y: 2503
+        width: 86
+        height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,7 +346,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1555
         y: 2524
-        width: 85
+        width: 86
         height: 528
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: Anak SD Sprite_3
       rect:
         serializedVersion: 2
-        x: 2188
-        y: 2505
-        width: 150
-        height: 531
+        x: 2187
+        y: 2504
+        width: 152
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,7 +388,7 @@ TextureImporter:
         serializedVersion: 2
         x: 22
         y: 1907
-        width: 154
+        width: 155
         height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -408,9 +408,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 214
-        y: 1909
-        width: 158
-        height: 527
+        y: 1908
+        width: 159
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: Anak SD Sprite_6
       rect:
         serializedVersion: 2
-        x: 423
+        x: 422
         y: 1907
-        width: 170
-        height: 528
+        width: 172
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,9 +450,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 619
-        y: 1909
-        width: 184
-        height: 528
+        y: 1908
+        width: 185
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: Anak SD Sprite_8
       rect:
         serializedVersion: 2
-        x: 821
-        y: 1912
-        width: 170
-        height: 527
+        x: 820
+        y: 1911
+        width: 172
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: Anak SD Sprite_9
       rect:
         serializedVersion: 2
-        x: 1018
-        y: 1912
-        width: 159
-        height: 527
+        x: 1017
+        y: 1911
+        width: 161
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,9 +513,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1220
-        y: 1914
-        width: 158
-        height: 528
+        y: 1913
+        width: 159
+        height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: Anak SD Sprite_11
       rect:
         serializedVersion: 2
-        x: 1404
-        y: 1914
-        width: 168
-        height: 528
+        x: 1403
+        y: 1913
+        width: 170
+        height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: Anak SD Sprite_12
       rect:
         serializedVersion: 2
-        x: 1605
-        y: 1911
-        width: 176
-        height: 528
+        x: 1604
+        y: 1910
+        width: 178
+        height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: Anak SD Sprite_13
       rect:
         serializedVersion: 2
-        x: 1818
+        x: 1817
         y: 1913
-        width: 168
-        height: 528
+        width: 170
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,8 +598,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2019
         y: 1910
-        width: 158
-        height: 528
+        width: 159
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: Anak SD Sprite_15
       rect:
         serializedVersion: 2
-        x: 2195
-        y: 1911
-        width: 154
-        height: 530
+        x: 2194
+        y: 1910
+        width: 155
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Anak SD Sprite_16
       rect:
         serializedVersion: 2
-        x: 23
-        y: 1285
-        width: 149
-        height: 531
+        x: 22
+        y: 1284
+        width: 151
+        height: 533
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: Anak SD Sprite_17
       rect:
         serializedVersion: 2
-        x: 204
+        x: 203
         y: 1284
-        width: 150
-        height: 531
+        width: 151
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: Anak SD Sprite_18
       rect:
         serializedVersion: 2
-        x: 395
-        y: 1282
-        width: 172
-        height: 531
+        x: 394
+        y: 1281
+        width: 173
+        height: 533
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: Anak SD Sprite_19
       rect:
         serializedVersion: 2
-        x: 602
+        x: 601
         y: 1281
-        width: 185
-        height: 531
+        width: 187
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: Anak SD Sprite_20
       rect:
         serializedVersion: 2
-        x: 809
+        x: 808
         y: 1281
-        width: 172
-        height: 531
+        width: 173
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: Anak SD Sprite_21
       rect:
         serializedVersion: 2
-        x: 1006
+        x: 1005
         y: 1284
-        width: 150
-        height: 531
+        width: 152
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: Anak SD Sprite_22
       rect:
         serializedVersion: 2
-        x: 1210
-        y: 1282
-        width: 150
-        height: 531
+        x: 1209
+        y: 1281
+        width: 152
+        height: 533
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -788,7 +788,7 @@ TextureImporter:
         x: 1396
         y: 1281
         width: 172
-        height: 531
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: Anak SD Sprite_24
       rect:
         serializedVersion: 2
-        x: 1593
-        y: 1280
-        width: 185
-        height: 531
+        x: 1592
+        y: 1279
+        width: 187
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: Anak SD Sprite_25
       rect:
         serializedVersion: 2
-        x: 1802
+        x: 1801
         y: 1281
-        width: 171
-        height: 531
+        width: 173
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: Anak SD Sprite_26
       rect:
         serializedVersion: 2
-        x: 2008
-        y: 1280
-        width: 150
-        height: 532
+        x: 2007
+        y: 1279
+        width: 152
+        height: 534
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,9 +869,9 @@ TextureImporter:
       name: Anak SD Sprite_27
       rect:
         serializedVersion: 2
-        x: 2194
+        x: 2193
         y: 1284
-        width: 150
+        width: 152
         height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -891,9 +891,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 657
+        y: 656
         width: 154
-        height: 523
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,7 +913,7 @@ TextureImporter:
         serializedVersion: 2
         x: 181
         y: 655
-        width: 179
+        width: 180
         height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -933,9 +933,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 369
-        y: 656
-        width: 194
-        height: 527
+        y: 655
+        width: 195
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: Anak SD Sprite_31
       rect:
         serializedVersion: 2
-        x: 577
-        y: 654
-        width: 201
-        height: 526
+        x: 576
+        y: 653
+        width: 203
+        height: 528
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: Anak SD Sprite_32
       rect:
         serializedVersion: 2
-        x: 793
-        y: 658
-        width: 140
-        height: 521
+        x: 792
+        y: 657
+        width: 142
+        height: 523
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -997,8 +997,8 @@ TextureImporter:
         serializedVersion: 2
         x: 992
         y: 655
-        width: 142
-        height: 521
+        width: 143
+        height: 522
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1019,7 +1019,7 @@ TextureImporter:
         x: 1141
         y: 655
         width: 265
-        height: 521
+        height: 522
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: Anak SD Sprite_35
       rect:
         serializedVersion: 2
-        x: 1416
-        y: 657
-        width: 212
-        height: 522
+        x: 1415
+        y: 656
+        width: 214
+        height: 524
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: Anak SD Sprite_36
       rect:
         serializedVersion: 2
-        x: 1638
-        y: 660
-        width: 215
-        height: 523
+        x: 1637
+        y: 659
+        width: 216
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: Anak SD Sprite_37
       rect:
         serializedVersion: 2
-        x: 1856
-        y: 652
-        width: 235
-        height: 523
+        x: 1855
+        y: 651
+        width: 237
+        height: 524
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1101,9 +1101,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2105
-        y: 656
-        width: 208
-        height: 523
+        y: 655
+        width: 209
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1122,9 +1122,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2345
-        y: 657
-        width: 155
-        height: 523
+        y: 656
+        width: 175
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: Anak SD Sprite_40
       rect:
         serializedVersion: 2
-        x: 19
+        x: 0
         y: 4
-        width: 155
-        height: 523
+        width: 175
+        height: 524
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: Anak SD Sprite_41
       rect:
         serializedVersion: 2
-        x: 206
-        y: 3
-        width: 209
-        height: 522
+        x: 205
+        y: 2
+        width: 210
+        height: 523
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: Anak SD Sprite_42
       rect:
         serializedVersion: 2
-        x: 429
+        x: 428
         y: 0
-        width: 235
-        height: 521
+        width: 236
+        height: 522
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,9 +1205,9 @@ TextureImporter:
       name: Anak SD Sprite_43
       rect:
         serializedVersion: 2
-        x: 667
+        x: 666
         y: 7
-        width: 215
+        width: 217
         height: 523
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: Anak SD Sprite_44
       rect:
         serializedVersion: 2
-        x: 892
+        x: 891
         y: 4
-        width: 211
-        height: 522
+        width: 213
+        height: 523
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: Anak SD Sprite_45
       rect:
         serializedVersion: 2
-        x: 1114
-        y: 2
-        width: 264
-        height: 520
+        x: 1113
+        y: 1
+        width: 266
+        height: 521
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: Anak SD Sprite_46
       rect:
         serializedVersion: 2
-        x: 1386
-        y: 2
-        width: 142
-        height: 521
+        x: 1385
+        y: 1
+        width: 143
+        height: 523
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1289,10 +1289,10 @@ TextureImporter:
       name: Anak SD Sprite_47
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 4
-        width: 140
-        height: 521
+        x: 1584
+        y: 0
+        width: 142
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: Anak SD Sprite_48
       rect:
         serializedVersion: 2
-        x: 1741
+        x: 1740
         y: 1
-        width: 202
-        height: 525
+        width: 204
+        height: 526
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: Anak SD Sprite_49
       rect:
         serializedVersion: 2
-        x: 1957
-        y: 3
-        width: 194
-        height: 527
+        x: 1956
+        y: 2
+        width: 195
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: Anak SD Sprite_50
       rect:
         serializedVersion: 2
-        x: 2160
-        y: 2
-        width: 178
-        height: 530
+        x: 2159
+        y: 1
+        width: 180
+        height: 532
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1373,10 +1373,10 @@ TextureImporter:
       name: Anak SD Sprite_51
       rect:
         serializedVersion: 2
-        x: 2365
+        x: 2364
         y: 4
-        width: 155
-        height: 523
+        width: 156
+        height: 524
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1393,14 +1393,66 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1b9af8d796fb78c4e9b7743a536b4125
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Anak SD Sprite_0: -8941409529172081551
+      Anak SD Sprite_1: -9211175000716821001
+      Anak SD Sprite_10: 7857156174058038480
+      Anak SD Sprite_11: 1017212080687205193
+      Anak SD Sprite_12: 5131793789147876426
+      Anak SD Sprite_13: 3482780425492629480
+      Anak SD Sprite_14: 3937526615126331024
+      Anak SD Sprite_15: 9115547941809411427
+      Anak SD Sprite_16: -6490404762674121752
+      Anak SD Sprite_17: 8371888022371650262
+      Anak SD Sprite_18: 104991303755559064
+      Anak SD Sprite_19: -1945944553005083539
+      Anak SD Sprite_2: -5473405729505291504
+      Anak SD Sprite_20: -158549944766610173
+      Anak SD Sprite_21: -6566819492150577764
+      Anak SD Sprite_22: -8999676894938982462
+      Anak SD Sprite_23: -8787915074110291621
+      Anak SD Sprite_24: 7354822518824577375
+      Anak SD Sprite_25: 4659307605942721727
+      Anak SD Sprite_26: -2040039476111486689
+      Anak SD Sprite_27: 3593508772870651049
+      Anak SD Sprite_28: -2830001918385261253
+      Anak SD Sprite_29: -178911410468347444
+      Anak SD Sprite_3: 8329589972331914980
+      Anak SD Sprite_30: 8783370248926365392
+      Anak SD Sprite_31: -6351554994754853398
+      Anak SD Sprite_32: 6402648896859866734
+      Anak SD Sprite_33: -5557977194228568167
+      Anak SD Sprite_34: -7819686636818656237
+      Anak SD Sprite_35: -5662498605191970177
+      Anak SD Sprite_36: -3438848089603981838
+      Anak SD Sprite_37: 8177921944164341278
+      Anak SD Sprite_38: 5480509311045015736
+      Anak SD Sprite_39: 5350258671936113257
+      Anak SD Sprite_4: 7317524615031682287
+      Anak SD Sprite_40: 4178389409660286890
+      Anak SD Sprite_41: 5287191423796704591
+      Anak SD Sprite_42: 1996509985100280135
+      Anak SD Sprite_43: -2933485494908376851
+      Anak SD Sprite_44: -3524013385352684246
+      Anak SD Sprite_45: -829559606581156130
+      Anak SD Sprite_46: 2444846747417873669
+      Anak SD Sprite_47: -5623455681544548750
+      Anak SD Sprite_48: 4402371452185439597
+      Anak SD Sprite_49: -6826594138221568075
+      Anak SD Sprite_5: -392079995318885041
+      Anak SD Sprite_50: 1611499184973937387
+      Anak SD Sprite_51: -8748083449738100251
+      Anak SD Sprite_6: 7462492950301969691
+      Anak SD Sprite_7: 6835018192986017027
+      Anak SD Sprite_8: 6209909371210223285
+      Anak SD Sprite_9: 7950529968136093401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

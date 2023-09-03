@@ -1,25 +1,34 @@
 fileFormatVersion: 2
-guid: 1563a01c1d882844fb8daf64a0cb5d09
+guid: df322f5c2cb9c384a8d83a1fd6459893
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7030282435453932416
-    second: PAUSE_SLICE_0
+      213: 6686975188570444322
+    second: TOMBOLAN_0
   - first:
-      213: -1280273537728553397
-    second: PAUSE_SLICE_1
+      213: -1139698495072370998
+    second: TOMBOLAN_1
   - first:
-      213: 1543016079872279599
-    second: PAUSE_SLICE_2
+      213: -8503165538679750199
+    second: TOMBOLAN_2
   - first:
-      213: 7517542254090775195
-    second: PAUSE_SLICE_3
+      213: 8164965957516071398
+    second: TOMBOLAN_3
   - first:
-      213: 1582071624014830638
-    second: PAUSE_SLICE_4
+      213: -2080308036924860186
+    second: TOMBOLAN_4
   - first:
-      213: -5166429860537057873
-    second: PAUSE_SLICE_5
+      213: -1041929484299380374
+    second: TOMBOLAN_5
+  - first:
+      213: -5523498919086331081
+    second: TOMBOLAN_6
+  - first:
+      213: -5508517718719911094
+    second: TOMBOLAN_7
+  - first:
+      213: 8307522878168244869
+    second: TOMBOLAN_8
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,7 +143,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: tvOS
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -157,29 +166,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PAUSE_SLICE_0
+      name: TOMBOLAN_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 150
-        width: 1060
-        height: 1827
+        x: 0
+        y: 601
+        width: 270
+        height: 487
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08356e380a4909160800000000000000
-      internalID: 7030282435453932416
+      spriteID: 22297904188eccc50800000000000000
+      internalID: 6686975188570444322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_1
+      name: TOMBOLAN_1
       rect:
         serializedVersion: 2
-        x: 1537
-        y: 1708
-        width: 877
-        height: 160
+        x: 546
+        y: 601
+        width: 270
+        height: 487
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4e5b58200e8b3ee0800000000000000
-      internalID: -1280273537728553397
+      spriteID: acef922d14afe20f0800000000000000
+      internalID: -1139698495072370998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_2
+      name: TOMBOLAN_2
       rect:
         serializedVersion: 2
-        x: 1562
-        y: 1338
-        width: 877
-        height: 160
+        x: 923
+        y: 710
+        width: 487
+        height: 271
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f24c08b03f4e96510800000000000000
-      internalID: 1543016079872279599
+      spriteID: 9c186a88effaef980800000000000000
+      internalID: -8503165538679750199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_3
+      name: TOMBOLAN_3
       rect:
         serializedVersion: 2
-        x: 1566
-        y: 988
-        width: 877
-        height: 160
+        x: 1548
+        y: 698
+        width: 487
+        height: 270
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9ae117b9dca35860800000000000000
-      internalID: 7517542254090775195
+      spriteID: 6e117ec4749cf4170800000000000000
+      internalID: 8164965957516071398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_4
+      name: TOMBOLAN_4
       rect:
         serializedVersion: 2
-        x: 1537
-        y: 563
-        width: 877
-        height: 160
+        x: 109
+        y: 0
+        width: 487
+        height: 487
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2c11a682c5a4f510800000000000000
-      internalID: 1582071624014830638
+      spriteID: 6e814b3ccd24123e0800000000000000
+      internalID: -2080308036924860186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_5
+      name: TOMBOLAN_5
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 167
-        width: 877
-        height: 164
+        x: 866
+        y: 341
+        width: 124
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,8 +289,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fadb7bd2a672d48b0800000000000000
-      internalID: -5166429860537057873
+      spriteID: a69545787a25a81f0800000000000000
+      internalID: -1041929484299380374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOMBOLAN_6
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 341
+        width: 285
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bea927ff69853b0800000000000000
+      internalID: -5523498919086331081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOMBOLAN_7
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 325
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b21c8f150dd83b0800000000000000
+      internalID: -5508517718719911094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TOMBOLAN_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 14
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58226a4ea004a4370800000000000000
+      internalID: 8307522878168244869
       vertices: []
       indices: 
       edges: []
@@ -309,12 +369,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PAUSE_SLICE_0: 7030282435453932416
-      PAUSE_SLICE_1: -1280273537728553397
-      PAUSE_SLICE_2: 1543016079872279599
-      PAUSE_SLICE_3: 7517542254090775195
-      PAUSE_SLICE_4: 1582071624014830638
-      PAUSE_SLICE_5: -5166429860537057873
+      TOMBOLAN_0: 6686975188570444322
+      TOMBOLAN_1: -1139698495072370998
+      TOMBOLAN_2: -8503165538679750199
+      TOMBOLAN_3: 8164965957516071398
+      TOMBOLAN_4: -2080308036924860186
+      TOMBOLAN_5: -1041929484299380374
+      TOMBOLAN_6: -5523498919086331081
+      TOMBOLAN_7: -5508517718719911094
+      TOMBOLAN_8: 8307522878168244869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

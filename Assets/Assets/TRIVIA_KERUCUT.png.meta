@@ -1,25 +1,10 @@
 fileFormatVersion: 2
-guid: 1563a01c1d882844fb8daf64a0cb5d09
+guid: 3901f089fc8105f498910f3733e0b213
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7030282435453932416
-    second: PAUSE_SLICE_0
-  - first:
-      213: -1280273537728553397
-    second: PAUSE_SLICE_1
-  - first:
-      213: 1543016079872279599
-    second: PAUSE_SLICE_2
-  - first:
-      213: 7517542254090775195
-    second: PAUSE_SLICE_3
-  - first:
-      213: 1582071624014830638
-    second: PAUSE_SLICE_4
-  - first:
-      213: -5166429860537057873
-    second: PAUSE_SLICE_5
+      213: 5134438463395253489
+    second: TRIVIA_KERUCUT_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,7 +119,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: tvOS
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -157,29 +142,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PAUSE_SLICE_0
+      name: TRIVIA_KERUCUT_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 150
-        width: 1060
-        height: 1827
+        x: 0
+        y: 0
+        width: 1241
+        height: 841
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,113 +160,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08356e380a4909160800000000000000
-      internalID: 7030282435453932416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_1
-      rect:
-        serializedVersion: 2
-        x: 1537
-        y: 1708
-        width: 877
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4e5b58200e8b3ee0800000000000000
-      internalID: -1280273537728553397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_2
-      rect:
-        serializedVersion: 2
-        x: 1562
-        y: 1338
-        width: 877
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f24c08b03f4e96510800000000000000
-      internalID: 1543016079872279599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_3
-      rect:
-        serializedVersion: 2
-        x: 1566
-        y: 988
-        width: 877
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9ae117b9dca35860800000000000000
-      internalID: 7517542254090775195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_4
-      rect:
-        serializedVersion: 2
-        x: 1537
-        y: 563
-        width: 877
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2c11a682c5a4f510800000000000000
-      internalID: 1582071624014830638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_5
-      rect:
-        serializedVersion: 2
-        x: 1545
-        y: 167
-        width: 877
-        height: 164
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fadb7bd2a672d48b0800000000000000
-      internalID: -5166429860537057873
+      spriteID: 1fcc6cb3490314740800000000000000
+      internalID: 5134438463395253489
       vertices: []
       indices: 
       edges: []
@@ -308,13 +176,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      PAUSE_SLICE_0: 7030282435453932416
-      PAUSE_SLICE_1: -1280273537728553397
-      PAUSE_SLICE_2: 1543016079872279599
-      PAUSE_SLICE_3: 7517542254090775195
-      PAUSE_SLICE_4: 1582071624014830638
-      PAUSE_SLICE_5: -5166429860537057873
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

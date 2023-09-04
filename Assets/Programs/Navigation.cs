@@ -34,21 +34,21 @@ public class Navigation : MonoBehaviour
         SceneManager.LoadScene("ARcube");
         Time.timeScale = 1f;
     }
-    // public void ARbola()
-    // {
-    //     SceneManager.LoadScene("Credits");
-    //     Time.timeScale = 1f;
-    // }
-    // public void ARkerucut()
-    // {
-    //     SceneManager.LoadScene("Credits");
-    //     Time.timeScale = 1f;
-    // }
-    // public void ARlimas()
-    // {
-    //     SceneManager.LoadScene("Credits");
-    //     Time.timeScale = 1f;
-    // }
+    public void ARbola()
+    {
+        SceneManager.LoadScene("ARball");
+        Time.timeScale = 1f;
+    }
+    public void ARkerucut()
+    {
+        SceneManager.LoadScene("ARcone");
+        Time.timeScale = 1f;
+    }
+    public void ARlimas()
+    {
+        SceneManager.LoadScene("ARpyramid");
+        Time.timeScale = 1f;
+    }
     public void ARprisma()
     {
         SceneManager.LoadScene("ARprism");

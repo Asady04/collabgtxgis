@@ -4,13 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bola
   - Limas
+  - Bola
+  - Prisma
+  - Tabung
+  - Kubus
   - Kerucut
   - Balok
-  - Tabung
-  - Prisma
-  - Kubus
+  - Penghalang
   layers:
   - Default
   - TransparentFX
@@ -47,7 +48,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: quiz
-    uniqueID: 3571588761
     locked: 0

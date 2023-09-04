@@ -166,4 +166,12 @@ public class PlayerMove : MonoBehaviour
         AnimationState();
         Debug.Log(jenisBangun);
     }
+
+    void OnCollisionEnter(Collision collision) 
+    {
+       if(gameObject.CompareTag("Penghalang"))
+        {
+                    rb.velocity = Vector3.zero;
+        }
+    }
 }

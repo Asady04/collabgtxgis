@@ -1,25 +1,22 @@
 fileFormatVersion: 2
-guid: 1563a01c1d882844fb8daf64a0cb5d09
+guid: d1fdf390870602c4587275e8bf0b4bd6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7030282435453932416
-    second: PAUSE_SLICE_0
+      213: 7051937096737851798
+    second: QUIZ_BALOK (1)_0
   - first:
-      213: -1280273537728553397
-    second: PAUSE_SLICE_1
+      213: 3403472468632397460
+    second: QUIZ_BALOK (1)_1
   - first:
-      213: 1543016079872279599
-    second: PAUSE_SLICE_2
+      213: 9016605462475271277
+    second: QUIZ_BALOK (1)_2
   - first:
-      213: 7517542254090775195
-    second: PAUSE_SLICE_3
+      213: -2517669727013294332
+    second: QUIZ_BALOK (1)_3
   - first:
-      213: 1582071624014830638
-    second: PAUSE_SLICE_4
-  - first:
-      213: -5166429860537057873
-    second: PAUSE_SLICE_5
+      213: -8552110355890827350
+    second: QUIZ_BALOK (1)_4
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -134,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: tvOS
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -157,29 +154,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PAUSE_SLICE_0
+      name: QUIZ_BALOK (1)_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 150
-        width: 1060
-        height: 1827
+        x: 0
+        y: 340
+        width: 1241
+        height: 841
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08356e380a4909160800000000000000
-      internalID: 7030282435453932416
+      spriteID: 699857d3d638dd160800000000000000
+      internalID: 7051937096737851798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_1
+      name: QUIZ_BALOK (1)_1
       rect:
         serializedVersion: 2
-        x: 1537
-        y: 1708
-        width: 877
-        height: 160
+        x: 37
+        y: 138
+        width: 459
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4e5b58200e8b3ee0800000000000000
-      internalID: -1280273537728553397
+      spriteID: 496e7a78d209b3f20800000000000000
+      internalID: 3403472468632397460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_2
+      name: QUIZ_BALOK (1)_2
       rect:
         serializedVersion: 2
-        x: 1562
-        y: 1338
-        width: 877
-        height: 160
+        x: 706
+        y: 138
+        width: 460
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f24c08b03f4e96510800000000000000
-      internalID: 1543016079872279599
+      spriteID: d6c6fa665ea612d70800000000000000
+      internalID: 9016605462475271277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_3
+      name: QUIZ_BALOK (1)_3
       rect:
         serializedVersion: 2
-        x: 1566
-        y: 988
-        width: 877
-        height: 160
+        x: 37
+        y: 0
+        width: 459
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9ae117b9dca35860800000000000000
-      internalID: 7517542254090775195
+      spriteID: 40f2e93f8b07f0dd0800000000000000
+      internalID: -2517669727013294332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PAUSE_SLICE_4
+      name: QUIZ_BALOK (1)_4
       rect:
         serializedVersion: 2
-        x: 1537
-        y: 563
-        width: 877
-        height: 160
+        x: 706
+        y: 0
+        width: 460
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,29 +256,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2c11a682c5a4f510800000000000000
-      internalID: 1582071624014830638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PAUSE_SLICE_5
-      rect:
-        serializedVersion: 2
-        x: 1545
-        y: 167
-        width: 877
-        height: 164
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fadb7bd2a672d48b0800000000000000
-      internalID: -5166429860537057873
+      spriteID: aaf003d31fcc05980800000000000000
+      internalID: -8552110355890827350
       vertices: []
       indices: 
       edges: []
@@ -309,12 +273,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PAUSE_SLICE_0: 7030282435453932416
-      PAUSE_SLICE_1: -1280273537728553397
-      PAUSE_SLICE_2: 1543016079872279599
-      PAUSE_SLICE_3: 7517542254090775195
-      PAUSE_SLICE_4: 1582071624014830638
-      PAUSE_SLICE_5: -5166429860537057873
+      QUIZ_BALOK (1)_0: 7051937096737851798
+      QUIZ_BALOK (1)_1: 3403472468632397460
+      QUIZ_BALOK (1)_2: 9016605462475271277
+      QUIZ_BALOK (1)_3: -2517669727013294332
+      QUIZ_BALOK (1)_4: -8552110355890827350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,34 +1,22 @@
 fileFormatVersion: 2
-guid: 30e53885b9092a8469e875ff443fa58f
+guid: 52374d9f3e5467e43a7840fa44fe1f13
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6686975188570444322
-    second: TOMBOLAN_0
+      213: -2840302476078027907
+    second: QUIZ_LIMAS_0
   - first:
-      213: -1139698495072370998
-    second: TOMBOLAN_1
+      213: -372620328200731891
+    second: QUIZ_LIMAS_1
   - first:
-      213: -8503165538679750199
-    second: TOMBOLAN_2
+      213: -7465682488833920364
+    second: QUIZ_LIMAS_2
   - first:
-      213: 8164965957516071398
-    second: TOMBOLAN_3
+      213: -1480886394671088983
+    second: QUIZ_LIMAS_3
   - first:
-      213: -2080308036924860186
-    second: TOMBOLAN_4
-  - first:
-      213: -1041929484299380374
-    second: TOMBOLAN_5
-  - first:
-      213: -5523498919086331081
-    second: TOMBOLAN_6
-  - first:
-      213: -5508517718719911094
-    second: TOMBOLAN_7
-  - first:
-      213: 8307522878168244869
-    second: TOMBOLAN_8
+      213: -4306506072955432594
+    second: QUIZ_LIMAS_4
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -143,7 +131,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: tvOS
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -170,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TOMBOLAN_0
+      name: QUIZ_LIMAS_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 601
-        width: 270
-        height: 487
+        y: 340
+        width: 1241
+        height: 841
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22297904188eccc50800000000000000
-      internalID: 6686975188570444322
+      spriteID: d7be4b252f73598d0800000000000000
+      internalID: -2840302476078027907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TOMBOLAN_1
+      name: QUIZ_LIMAS_1
       rect:
         serializedVersion: 2
-        x: 546
-        y: 601
-        width: 270
-        height: 487
+        x: 36
+        y: 138
+        width: 459
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: acef922d14afe20f0800000000000000
-      internalID: -1139698495072370998
+      spriteID: d03818529cf24daf0800000000000000
+      internalID: -372620328200731891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TOMBOLAN_2
+      name: QUIZ_LIMAS_2
       rect:
         serializedVersion: 2
-        x: 923
-        y: 710
-        width: 487
-        height: 271
+        x: 705
+        y: 138
+        width: 459
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,41 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c186a88effaef980800000000000000
-      internalID: -8503165538679750199
+      spriteID: 492333fc451946890800000000000000
+      internalID: -7465682488833920364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TOMBOLAN_3
+      name: QUIZ_LIMAS_3
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 698
-        width: 487
-        height: 270
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e117ec4749cf4170800000000000000
-      internalID: 8164965957516071398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TOMBOLAN_4
-      rect:
-        serializedVersion: 2
-        x: 109
+        x: 35
         y: 0
-        width: 487
-        height: 487
+        width: 460
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e814b3ccd24123e0800000000000000
-      internalID: -2080308036924860186
+      spriteID: 9aabbec8ba5d27be0800000000000000
+      internalID: -1480886394671088983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TOMBOLAN_5
+      name: QUIZ_LIMAS_4
       rect:
         serializedVersion: 2
-        x: 866
-        y: 341
-        width: 124
-        height: 124
+        x: 705
+        y: 0
+        width: 459
+        height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,71 +256,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a69545787a25a81f0800000000000000
-      internalID: -1041929484299380374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TOMBOLAN_6
-      rect:
-        serializedVersion: 2
-        x: 1125
-        y: 341
-        width: 285
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73bea927ff69853b0800000000000000
-      internalID: -5523498919086331081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TOMBOLAN_7
-      rect:
-        serializedVersion: 2
-        x: 1596
-        y: 325
-        width: 184
-        height: 185
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4b21c8f150dd83b0800000000000000
-      internalID: -5508517718719911094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TOMBOLAN_8
-      rect:
-        serializedVersion: 2
-        x: 836
-        y: 14
-        width: 184
-        height: 184
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58226a4ea004a4370800000000000000
-      internalID: 8307522878168244869
+      spriteID: e61dd622b873c34c0800000000000000
+      internalID: -4306506072955432594
       vertices: []
       indices: 
       edges: []
@@ -368,16 +272,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TOMBOLAN_0: 6686975188570444322
-      TOMBOLAN_1: -1139698495072370998
-      TOMBOLAN_2: -8503165538679750199
-      TOMBOLAN_3: 8164965957516071398
-      TOMBOLAN_4: -2080308036924860186
-      TOMBOLAN_5: -1041929484299380374
-      TOMBOLAN_6: -5523498919086331081
-      TOMBOLAN_7: -5508517718719911094
-      TOMBOLAN_8: 8307522878168244869
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

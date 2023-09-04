@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMove : MonoBehaviour
 {
     private Rigidbody2D rb;
     private SpriteRenderer spi;
     private int MoveSpeed;
+    public string jenisBangun = "";
     private bool MoveRight, MoveLeft, MoveUp, MoveDown;
     Animator anim;
  
@@ -119,9 +121,49 @@ public class PlayerMove : MonoBehaviour
             rb.velocity = Vector3.zero;
         }
     }
- 
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Bola"))
+        {
+           jenisBangun = "bola";
+            
+        }else if (collision.CompareTag("Limas"))
+        {
+            jenisBangun = "limas";
+            
+        }else if (collision.CompareTag("Kerucut"))
+        {
+            jenisBangun = "kerucut";
+            
+        }else if (collision.CompareTag("Balok"))
+        {
+            jenisBangun = "balok";
+            
+        }else if (collision.CompareTag("Tabung"))
+        {
+            jenisBangun = "tabung";
+            
+        }else if (collision.CompareTag("Prisma"))
+        {
+            jenisBangun = "prisma";
+            
+        }else if (collision.CompareTag("Kubus"))
+        {
+            jenisBangun = "kubus";
+            
+        }
+    }
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            jenisBangun = "";
+        }
+    }
     void Update()
     {
         AnimationState();
+        Debug.Log(jenisBangun);
     }
 }

@@ -205,6 +205,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -680,7 +692,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Aset Ruang Kelas 1_0: -1252487577600673470
+      Aset Ruang Kelas 1_1: -1987496079777678266
+      Aset Ruang Kelas 1_10: 3482597768481368287
+      Aset Ruang Kelas 1_11: -5677896158021112084
+      Aset Ruang Kelas 1_12: -116219015737762879
+      Aset Ruang Kelas 1_13: 8455808983292073474
+      Aset Ruang Kelas 1_14: 5611159350902997171
+      Aset Ruang Kelas 1_15: 5968139913057834517
+      Aset Ruang Kelas 1_16: 2669903808325840323
+      Aset Ruang Kelas 1_17: 872821118469460382
+      Aset Ruang Kelas 1_18: -552719609539561611
+      Aset Ruang Kelas 1_19: 2513607172402012499
+      Aset Ruang Kelas 1_2: 2470622534807380218
+      Aset Ruang Kelas 1_20: -2125593446752032765
+      Aset Ruang Kelas 1_21: -2255154384101835783
+      Aset Ruang Kelas 1_3: 1155520478573541749
+      Aset Ruang Kelas 1_4: -408933245119025832
+      Aset Ruang Kelas 1_5: -1710807097139904698
+      Aset Ruang Kelas 1_6: 6707853998694459378
+      Aset Ruang Kelas 1_7: -8285728090540970996
+      Aset Ruang Kelas 1_8: 7604690174011575472
+      Aset Ruang Kelas 1_9: -4624688413880598790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

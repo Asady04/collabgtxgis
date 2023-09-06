@@ -97,10 +97,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 30111
-  packageName: Lean Touch
-  packageVersion: 3.0.0
-  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Textures/DemoRight.png
-  uploadId: 541160

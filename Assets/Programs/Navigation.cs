@@ -46,7 +46,7 @@ public class Navigation : MonoBehaviour
     }
     public void ARlimas()
     {
-        SceneManager.LoadScene("ARpyramid");
+        SceneManager.LoadScene("ARpyr");
         Time.timeScale = 1f;
     }
     public void ARprisma()

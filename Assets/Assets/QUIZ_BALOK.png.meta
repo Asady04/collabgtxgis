@@ -1,22 +1,7 @@
 fileFormatVersion: 2
 guid: d1fdf390870602c4587275e8bf0b4bd6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 7051937096737851798
-    second: QUIZ_BALOK (1)_0
-  - first:
-      213: 3403472468632397460
-    second: QUIZ_BALOK (1)_1
-  - first:
-      213: 9016605462475271277
-    second: QUIZ_BALOK (1)_2
-  - first:
-      213: -2517669727013294332
-    second: QUIZ_BALOK (1)_3
-  - first:
-      213: -8552110355890827350
-    second: QUIZ_BALOK (1)_4
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -92,18 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -128,10 +103,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -140,124 +116,113 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: QUIZ_BALOK (1)_0
+      name: QUIZ_BALOK_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 340
+        y: 341
         width: 1241
-        height: 841
+        height: 840
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 699857d3d638dd160800000000000000
-      internalID: 7051937096737851798
+      spriteID: 6b8c3194880ab944984af811213c7e6b
+      internalID: 1706641625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: QUIZ_BALOK (1)_1
+      name: QUIZ_BALOK_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 138
-        width: 459
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 496e7a78d209b3f20800000000000000
-      internalID: 3403472468632397460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: QUIZ_BALOK (1)_2
-      rect:
-        serializedVersion: 2
-        x: 706
-        y: 138
-        width: 460
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6c6fa665ea612d70800000000000000
-      internalID: 9016605462475271277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: QUIZ_BALOK (1)_3
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 0
-        width: 459
+        width: 457
         height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40f2e93f8b07f0dd0800000000000000
-      internalID: -2517669727013294332
+      spriteID: b6e83bd0653d9434ebe900856dbb39a6
+      internalID: -1911849271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: QUIZ_BALOK (1)_4
+      name: QUIZ_BALOK_2
       rect:
         serializedVersion: 2
-        x: 706
-        y: 0
-        width: 460
-        height: 121
+        x: 707
+        y: 139
+        width: 458
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aaf003d31fcc05980800000000000000
-      internalID: -8552110355890827350
+      spriteID: 62128feb77d481440bbdd0af0c10854d
+      internalID: 1618361905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QUIZ_BALOK_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 457
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdbe6a4ab1ec24795bc0093fa2b624
+      internalID: -1902402994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QUIZ_BALOK_4
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 458
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23c7959756f554e930cb20a4b8f717
+      internalID: 1443952186
       vertices: []
       indices: 
       edges: []
@@ -265,7 +230,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -273,11 +238,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      QUIZ_BALOK (1)_0: 7051937096737851798
-      QUIZ_BALOK (1)_1: 3403472468632397460
-      QUIZ_BALOK (1)_2: 9016605462475271277
-      QUIZ_BALOK (1)_3: -2517669727013294332
-      QUIZ_BALOK (1)_4: -8552110355890827350
+      QUIZ_BALOK_0: 1706641625
+      QUIZ_BALOK_1: -1911849271
+      QUIZ_BALOK_2: 1618361905
+      QUIZ_BALOK_3: -1902402994
+      QUIZ_BALOK_4: 1443952186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

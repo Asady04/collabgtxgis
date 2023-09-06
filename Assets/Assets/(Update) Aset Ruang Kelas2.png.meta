@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,826 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8402
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a888e363ffbe8b4ebf9765dea5ca597
+      internalID: -142501727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7537
+        width: 14324
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c5eb678ad1214fb29ab1bc60a4f3c
+      internalID: 1449146913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_2
+      rect:
+        serializedVersion: 2
+        x: 5103
+        y: 7496
+        width: 1242
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1189966c5b8046b1839c974ad0abb
+      internalID: 2063701885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_3
+      rect:
+        serializedVersion: 2
+        x: 6389
+        y: 7496
+        width: 311
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647757d1e7996c4fb27bb17cda91c3c
+      internalID: -2057653930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_4
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 7496
+        width: 1198
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da66b74e5693344b74f9b2a6366a84
+      internalID: 470712621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5948
+        width: 13058
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6219fe341feb9394bbf2997f34b622ce
+      internalID: -565113397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_6
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 5899
+        width: 977
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f1cc7fd070f34f84bb5c7dadee31c
+      internalID: -2000654002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_7
+      rect:
+        serializedVersion: 2
+        x: 12202
+        y: 5899
+        width: 932
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52e93edbd5abe40ad3adc195c3b176
+      internalID: -706465914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3256
+        width: 509
+        height: 2196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e09bf316617024d8fa50692a449524
+      internalID: 607252467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_9
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3234
+        width: 530
+        height: 2166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c000d41fb061ce4e9f0f7fd6790385d
+      internalID: 786883672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_10
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3234
+        width: 495
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36acaa0d1f92f0042bf5c803a62f34ca
+      internalID: 2009086646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_11
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 4968
+        width: 44
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1aa4c6cc207b48918173ddf7a6681
+      internalID: 1463253071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_12
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3242
+        width: 510
+        height: 2165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec789e5bf592e14a8de7f3150388a54
+      internalID: 366343764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_13
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3227
+        width: 529
+        height: 2166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c15f296c60434db05472f2685e7d8
+      internalID: 214215113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_14
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 4683
+        width: 1020
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29784f491cd9b41aefecc794224188
+      internalID: 1282075239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_15
+      rect:
+        serializedVersion: 2
+        x: 14686
+        y: 5101
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84736832068ec4b4f8814b77fc81e6d3
+      internalID: 973603380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_16
+      rect:
+        serializedVersion: 2
+        x: 14775
+        y: 5101
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cdd9ff79d510f4280b1346deba06c4
+      internalID: -1745768943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_17
+      rect:
+        serializedVersion: 2
+        x: 6611
+        y: 4613
+        width: 666
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340523b9a8d2c2439e46950e9cdd49d
+      internalID: -1164107053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_18
+      rect:
+        serializedVersion: 2
+        x: 14439
+        y: 1120
+        width: 706
+        height: 3973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80021e172bc7d214b984888a17e55d29
+      internalID: -211343356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_19
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 4125
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1063d53cc8ae44b87be4b14eed2df0
+      internalID: 1810504900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3681
+        width: 45
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4e3b1f4255f1c4ba45397f3591c521
+      internalID: -1332203138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_21
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 3814
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826a717151202b40b1f9a4ee1042e1c
+      internalID: 1156531139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_22
+      rect:
+        serializedVersion: 2
+        x: 14376
+        y: 3637
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20dc38cf978f448bcd0114caa9b656
+      internalID: 1850460538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_23
+      rect:
+        serializedVersion: 2
+        x: 14376
+        y: 3327
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c2c0594c0e08429b7bc0524544291
+      internalID: -464819210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f35071d6db2b34fa64177fc9ad1a08
+      internalID: -1220403466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_25
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 3212
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834462cac31006b45a51277ca1222cb1
+      internalID: -957837593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_26
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 2883
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea83fc7d7a4fb04d98c2e2d601bfb2d
+      internalID: -386382546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_27
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 2706
+        width: 45
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006a0221dd53b140b1bc7950becf6e2
+      internalID: -1622774943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_28
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 2395
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584aed534edcbb84c836bc67d60ae4f4
+      internalID: 366696036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_29
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 2173
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8daa58d4af6048bbf4293fbef401d
+      internalID: 2053285452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_30
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 1996
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80730c440ef3b474b8bdd2eac498724a
+      internalID: -183799861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_31
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 1685
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0749264cb004a42b76d1b67c761192
+      internalID: 1853121485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 4
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5cca7c8eb263c48b93ef2c68931a1a
+      internalID: 688192604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_33
+      rect:
+        serializedVersion: 2
+        x: 14420
+        y: 1419
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a661528ce42984aa93e8f0c0cb404f
+      internalID: 1431747362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_34
+      rect:
+        serializedVersion: 2
+        x: 14598
+        y: 1109
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989fb4c8559fa645ba204b823f6cac8
+      internalID: -1641227520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_35
+      rect:
+        serializedVersion: 2
+        x: 14953
+        y: 1109
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e4c1d776afb64ca1b8afed692510d
+      internalID: 1280382621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_36
+      rect:
+        serializedVersion: 2
+        x: 10472
+        y: 0
+        width: 4662
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9fa5d593240c4bb525e3e93e6cd73
+      internalID: 1847741559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_37
+      rect:
+        serializedVersion: 2
+        x: 11270
+        y: 976
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a832b0e72dba0434c8e6040dedf6589c
+      internalID: 1854090930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update) Aset Ruang Kelas2_38
+      rect:
+        serializedVersion: 2
+        x: 15130
+        y: 710
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf1a86379078345a203d99608989de
+      internalID: 436845940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +964,46 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      (Update) Aset Ruang Kelas2_0: -142501727
+      (Update) Aset Ruang Kelas2_1: 1449146913
+      (Update) Aset Ruang Kelas2_10: 2009086646
+      (Update) Aset Ruang Kelas2_11: 1463253071
+      (Update) Aset Ruang Kelas2_12: 366343764
+      (Update) Aset Ruang Kelas2_13: 214215113
+      (Update) Aset Ruang Kelas2_14: 1282075239
+      (Update) Aset Ruang Kelas2_15: 973603380
+      (Update) Aset Ruang Kelas2_16: -1745768943
+      (Update) Aset Ruang Kelas2_17: -1164107053
+      (Update) Aset Ruang Kelas2_18: -211343356
+      (Update) Aset Ruang Kelas2_19: 1810504900
+      (Update) Aset Ruang Kelas2_2: 2063701885
+      (Update) Aset Ruang Kelas2_20: -1332203138
+      (Update) Aset Ruang Kelas2_21: 1156531139
+      (Update) Aset Ruang Kelas2_22: 1850460538
+      (Update) Aset Ruang Kelas2_23: -464819210
+      (Update) Aset Ruang Kelas2_24: -1220403466
+      (Update) Aset Ruang Kelas2_25: -957837593
+      (Update) Aset Ruang Kelas2_26: -386382546
+      (Update) Aset Ruang Kelas2_27: -1622774943
+      (Update) Aset Ruang Kelas2_28: 366696036
+      (Update) Aset Ruang Kelas2_29: 2053285452
+      (Update) Aset Ruang Kelas2_3: -2057653930
+      (Update) Aset Ruang Kelas2_30: -183799861
+      (Update) Aset Ruang Kelas2_31: 1853121485
+      (Update) Aset Ruang Kelas2_32: 688192604
+      (Update) Aset Ruang Kelas2_33: 1431747362
+      (Update) Aset Ruang Kelas2_34: -1641227520
+      (Update) Aset Ruang Kelas2_35: 1280382621
+      (Update) Aset Ruang Kelas2_36: 1847741559
+      (Update) Aset Ruang Kelas2_37: 1854090930
+      (Update) Aset Ruang Kelas2_38: 436845940
+      (Update) Aset Ruang Kelas2_4: 470712621
+      (Update) Aset Ruang Kelas2_5: -565113397
+      (Update) Aset Ruang Kelas2_6: -2000654002
+      (Update) Aset Ruang Kelas2_7: -706465914
+      (Update) Aset Ruang Kelas2_8: 607252467
+      (Update) Aset Ruang Kelas2_9: 786883672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

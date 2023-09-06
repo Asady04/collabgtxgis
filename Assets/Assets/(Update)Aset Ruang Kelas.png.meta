@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -132,9 +132,610 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7020
+        width: 1182
+        height: 1610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebdc4976e5c984a9699fe3404617eb
+      internalID: 1969447577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_1
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 8626
+        width: 344
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea5d103beeca04e8482696789c081a
+      internalID: -43606437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_2
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 7430
+        width: 780
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab20fa7c7d8712b4c9a8828cb10a7e39
+      internalID: -1494787902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_3
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 7491
+        width: 1181
+        height: 1052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e94d45fe5dfc428251efa14360eb5
+      internalID: -1788385300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_4
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 7300
+        width: 894
+        height: 1243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedbb8a4c59866d4e92b2fe4ffaf6ca6
+      internalID: 1763500150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_5
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 7263
+        width: 1182
+        height: 1340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425cd28fdbf2dc14893b04d9b9c9495b
+      internalID: 799031794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_6
+      rect:
+        serializedVersion: 2
+        x: 7739
+        y: 7361
+        width: 3605
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dd49bb4f2a4349a9f72dac191216d
+      internalID: -639030679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_7
+      rect:
+        serializedVersion: 2
+        x: 13329
+        y: 5664
+        width: 2186
+        height: 2780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127af225ac6e58b46b0477d6355e3831
+      internalID: 1484174842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4330
+        width: 545
+        height: 2409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d55be190fe049346a29911c20ddfbfb
+      internalID: 1116447372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 4573
+        width: 1265
+        height: 2197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a447f378a2295c4c8d5404c2391139c
+      internalID: 1951773990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_10
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 5082
+        width: 1628
+        height: 1279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa0249b2bc8464fa58fe08176f29a9
+      internalID: 1056078910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_11
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 5596
+        width: 3606
+        height: 1590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7884c86fc5c43a344a6c4ad6aceb5e3b
+      internalID: 830710585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_12
+      rect:
+        serializedVersion: 2
+        x: 9784
+        y: 5429
+        width: 2045
+        height: 1143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9db7b7a8aabd641a390e8823b16552
+      internalID: -7381591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_13
+      rect:
+        serializedVersion: 2
+        x: 11973
+        y: 5437
+        width: 1788
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c24e1f0b9e3d4a9af58f7a97ce405
+      internalID: -1024830837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1807
+        width: 1265
+        height: 2197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b0e0506d3ffb408d0efc7834a35e2
+      internalID: -2079764459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_15
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1808
+        width: 1265
+        height: 2203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014012bf68ad5c74a8725b5494c85245
+      internalID: 1939140749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_16
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1822
+        width: 1264
+        height: 2197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ed94d01101034e9e839ab33a66374
+      internalID: 339744663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_17
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 3489
+        width: 8977
+        height: 1265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a426e26c58567946bde5d45061cd7a6
+      internalID: 984374069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_18
+      rect:
+        serializedVersion: 2
+        x: 13966
+        y: 3440
+        width: 1439
+        height: 1246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26116120feea4945b595d79d69400dd
+      internalID: 1199069635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_19
+      rect:
+        serializedVersion: 2
+        x: 11239
+        y: 1930
+        width: 1219
+        height: 1256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46f117289e9ed43925f92f8489481b
+      internalID: 1165410637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 80
+        width: 1376
+        height: 1288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7861d2068d1f4b91d56eb1e74c3f7
+      internalID: 2147238462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_21
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 0
+        width: 1628
+        height: 1368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6478abd85578bb4faa37e0b86e2146c
+      internalID: 1420959458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_22
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 163
+        width: 1484
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3303ec19224f4b8bf077df9c23b6f
+      internalID: 1833791185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_23
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 216
+        width: 1983
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926e455866bbdf409ed29bbf6203f47
+      internalID: 1333433450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_24
+      rect:
+        serializedVersion: 2
+        x: 8860
+        y: 140
+        width: 2091
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d7f93b07948e459be98e46f629845
+      internalID: -1113709683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_25
+      rect:
+        serializedVersion: 2
+        x: 11322
+        y: 240
+        width: 1848
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d990ed4b04b9343a3502acb072fe70
+      internalID: 1360059432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_26
+      rect:
+        serializedVersion: 2
+        x: 13913
+        y: 218
+        width: 1234
+        height: 1369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e26567221d6484287aae3c09182d50
+      internalID: 995404966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Update)Aset Ruang Kelas_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 530
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfcd40d77fb5e44aab2bacf0e7e4e9
+      internalID: -1346988011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +746,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      (Update)Aset Ruang Kelas_0: 1969447577
+      (Update)Aset Ruang Kelas_1: -43606437
+      (Update)Aset Ruang Kelas_10: 1056078910
+      (Update)Aset Ruang Kelas_11: 830710585
+      (Update)Aset Ruang Kelas_12: -7381591
+      (Update)Aset Ruang Kelas_13: -1024830837
+      (Update)Aset Ruang Kelas_14: -2079764459
+      (Update)Aset Ruang Kelas_15: 1939140749
+      (Update)Aset Ruang Kelas_16: 339744663
+      (Update)Aset Ruang Kelas_17: 984374069
+      (Update)Aset Ruang Kelas_18: 1199069635
+      (Update)Aset Ruang Kelas_19: 1165410637
+      (Update)Aset Ruang Kelas_2: -1494787902
+      (Update)Aset Ruang Kelas_20: 2147238462
+      (Update)Aset Ruang Kelas_21: 1420959458
+      (Update)Aset Ruang Kelas_22: 1833791185
+      (Update)Aset Ruang Kelas_23: 1333433450
+      (Update)Aset Ruang Kelas_24: -1113709683
+      (Update)Aset Ruang Kelas_25: 1360059432
+      (Update)Aset Ruang Kelas_26: 995404966
+      (Update)Aset Ruang Kelas_27: -1346988011
+      (Update)Aset Ruang Kelas_3: -1788385300
+      (Update)Aset Ruang Kelas_4: 1763500150
+      (Update)Aset Ruang Kelas_5: 799031794
+      (Update)Aset Ruang Kelas_6: -639030679
+      (Update)Aset Ruang Kelas_7: 1484174842
+      (Update)Aset Ruang Kelas_8: 1116447372
+      (Update)Aset Ruang Kelas_9: 1951773990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,1310 @@
+fileFormatVersion: 2
+guid: 6f6eab31ce541c94daf580b8378dd39b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2770
+        width: 126
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe759ca58cf15489524dc27b4dce45
+      internalID: -54442587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2766
+        width: 452
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3266f082f5fc645b38e1372ca3244d
+      internalID: -1176851336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2780
+        width: 308
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f63ffab1d0844594c368754b3564b
+      internalID: -1981706829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2765
+        width: 268
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7914b2ed3b354d80a78d0a49d88f2
+      internalID: -1684776000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2150
+        width: 131
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d5e92c3c4e894f9047d4346bce82f
+      internalID: -1066372682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2156
+        width: 134
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b4aa218869784a97e17d4044c5cf1
+      internalID: -1948728901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2155
+        width: 144
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c6a52c243bdf947b70b98cb7d8a010
+      internalID: 1031768671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2158
+        width: 155
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a579e51ec2e443b6767516191ab5e
+      internalID: -1139220788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2158
+        width: 144
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73739d3c55bddcc46b403394f72269b3
+      internalID: -1787970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2156
+        width: 134
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b835d6021de444a8b4faba2669a16c
+      internalID: -1912529264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2158
+        width: 134
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aedca8befef6a40a57cb9129902a79
+      internalID: 229725252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2159
+        width: 140
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a3ccf66a630e49814c65a52bba013
+      internalID: -1805478168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2158
+        width: 146
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe816832b77e934b9aa2bbf8002e6bb
+      internalID: 1293931245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2161
+        width: 140
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92baaa61cef8b224ab2d778e3bee8fe1
+      internalID: 27757728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2158
+        width: 134
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e114f239d6c804daeda6e81420fc40
+      internalID: 1323525021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 2151
+        width: 129
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7047c2af50ad674094e55a671ab5050
+      internalID: -687845593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1458
+        width: 127
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5fb93b816ddf45a6b742f3d51dec7
+      internalID: -299826399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1461
+        width: 127
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f25cf11bb29047830bbd4c0a80e00
+      internalID: 217680029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1466
+        width: 144
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09fcc905d3b564db2703f30112fc7d
+      internalID: 884793040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1466
+        width: 156
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb1b255fc42e6438f2c1fcc5064a1b
+      internalID: -1293025522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1466
+        width: 145
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ee32119df52d418346cc095dd08e1
+      internalID: -1788097557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1464
+        width: 127
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c913038ff536f4fb11ca3367c41938
+      internalID: 276878968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1467
+        width: 126
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ae0925e4b442478a8355eee6fdab0
+      internalID: -251315897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1466
+        width: 145
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba92db34f13904d9a7e490e731a7ee
+      internalID: 173873437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1464
+        width: 156
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0436175c10da521428a3864e9ad23de1
+      internalID: 1860654634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1466
+        width: 144
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad42fd25818304ab778290b073369a
+      internalID: -199589090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1464
+        width: 126
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72095bb2b94cbdd4c9d48f51896ab62a
+      internalID: -717628844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1469
+        width: 127
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c79711d221d644586c8486fe6f6789
+      internalID: -801004408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 155
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd940fad6dfff47990a29c9f49bfee
+      internalID: 689867341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 742
+        width: 175
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7281ccacbb7a4c91c9a3cf66e16b6
+      internalID: -729318144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 742
+        width: 178
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f815afd5ba1be9429158f058012ba6f
+      internalID: 772525361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 742
+        width: 194
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7ac519652af544bf6640728095a94
+      internalID: 1017607850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 744
+        width: 142
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c34a8d001e550148bb1e757d339a189
+      internalID: -1242116808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 743
+        width: 166
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b66452292cd794ab1381ae53b452e1
+      internalID: 1071955062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 742
+        width: 237
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb87998a8d832418d6af73fd4ace03
+      internalID: -2010931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 743
+        width: 199
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab6e34672ae114e8ef8f65068e2e01
+      internalID: 917927782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 745
+        width: 201
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef73bbb3f471541b769bf23d013b47
+      internalID: -1552850949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 744
+        width: 214
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c130b12069e8349b4ad7ccd49708df
+      internalID: 17624556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 744
+        width: 197
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59bac4081c6054688494a7cabce7d7
+      internalID: -970541883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 748
+        width: 179
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3731203e09b6f48b36fba373689ca4
+      internalID: -15652409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 179
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0ee035a38734418910b8808f157f8
+      internalID: 1980160900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 197
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df269e5ffe45bcc48873a1ee7455750d
+      internalID: -1957017479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1
+        width: 214
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3116bf780fbea4eb2584a8c866896e
+      internalID: -1084366125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2
+        width: 200
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eca45bd1eb0be45a23e76d93055212
+      internalID: 2028918805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1
+        width: 200
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11832b22ad9a09c4586587bcd2c519fd
+      internalID: 1813158507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 0
+        width: 236
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189a65017162d3489502b40e01a3136
+      internalID: -1302007088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1
+        width: 165
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5ff5c1543bf6243a677bef18a9c8f1
+      internalID: 72682454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 142
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d758ecc842ef42a4e829813a1b724
+      internalID: -772363851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 0
+        width: 193
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a5daffb191e84bbb1c2d0f2dfa3e1
+      internalID: -1753814708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 0
+        width: 178
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76588c4e4150fe0489d8351b326087f5
+      internalID: 1109432348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 0
+        width: 175
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf01dee1e1414e4abed2689a9534724
+      internalID: 1801820255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: (Updated) Anak SD Sprite_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1
+        width: 155
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c36cbd790aec45bc34a438f88b8b8
+      internalID: -981899452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      (Updated) Anak SD Sprite_Walk_0: -54442587
+      (Updated) Anak SD Sprite_Walk_1: -1176851336
+      (Updated) Anak SD Sprite_Walk_10: 229725252
+      (Updated) Anak SD Sprite_Walk_11: -1805478168
+      (Updated) Anak SD Sprite_Walk_12: 1293931245
+      (Updated) Anak SD Sprite_Walk_13: 27757728
+      (Updated) Anak SD Sprite_Walk_14: 1323525021
+      (Updated) Anak SD Sprite_Walk_15: -687845593
+      (Updated) Anak SD Sprite_Walk_16: -299826399
+      (Updated) Anak SD Sprite_Walk_17: 217680029
+      (Updated) Anak SD Sprite_Walk_18: 884793040
+      (Updated) Anak SD Sprite_Walk_19: -1293025522
+      (Updated) Anak SD Sprite_Walk_2: -1981706829
+      (Updated) Anak SD Sprite_Walk_20: -1788097557
+      (Updated) Anak SD Sprite_Walk_21: 276878968
+      (Updated) Anak SD Sprite_Walk_22: -251315897
+      (Updated) Anak SD Sprite_Walk_23: 173873437
+      (Updated) Anak SD Sprite_Walk_24: 1860654634
+      (Updated) Anak SD Sprite_Walk_25: -199589090
+      (Updated) Anak SD Sprite_Walk_26: -717628844
+      (Updated) Anak SD Sprite_Walk_27: -801004408
+      (Updated) Anak SD Sprite_Walk_28: 689867341
+      (Updated) Anak SD Sprite_Walk_29: -729318144
+      (Updated) Anak SD Sprite_Walk_3: -1684776000
+      (Updated) Anak SD Sprite_Walk_30: 772525361
+      (Updated) Anak SD Sprite_Walk_31: 1017607850
+      (Updated) Anak SD Sprite_Walk_32: -1242116808
+      (Updated) Anak SD Sprite_Walk_33: 1071955062
+      (Updated) Anak SD Sprite_Walk_34: -2010931105
+      (Updated) Anak SD Sprite_Walk_35: 917927782
+      (Updated) Anak SD Sprite_Walk_36: -1552850949
+      (Updated) Anak SD Sprite_Walk_37: 17624556
+      (Updated) Anak SD Sprite_Walk_38: -970541883
+      (Updated) Anak SD Sprite_Walk_39: -15652409
+      (Updated) Anak SD Sprite_Walk_4: -1066372682
+      (Updated) Anak SD Sprite_Walk_40: 1980160900
+      (Updated) Anak SD Sprite_Walk_41: -1957017479
+      (Updated) Anak SD Sprite_Walk_42: -1084366125
+      (Updated) Anak SD Sprite_Walk_43: 2028918805
+      (Updated) Anak SD Sprite_Walk_44: 1813158507
+      (Updated) Anak SD Sprite_Walk_45: -1302007088
+      (Updated) Anak SD Sprite_Walk_46: 72682454
+      (Updated) Anak SD Sprite_Walk_47: -772363851
+      (Updated) Anak SD Sprite_Walk_48: -1753814708
+      (Updated) Anak SD Sprite_Walk_49: 1109432348
+      (Updated) Anak SD Sprite_Walk_5: -1948728901
+      (Updated) Anak SD Sprite_Walk_50: 1801820255
+      (Updated) Anak SD Sprite_Walk_51: -981899452
+      (Updated) Anak SD Sprite_Walk_6: 1031768671
+      (Updated) Anak SD Sprite_Walk_7: -1139220788
+      (Updated) Anak SD Sprite_Walk_8: -1787970289
+      (Updated) Anak SD Sprite_Walk_9: -1912529264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

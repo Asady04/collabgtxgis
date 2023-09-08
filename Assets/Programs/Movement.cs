@@ -17,7 +17,7 @@ public class PlayerMove : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spi = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
-        MoveSpeed = 3;
+        MoveSpeed = 4;
         MoveRight = false;
         MoveLeft = false;
         MoveUp = false;

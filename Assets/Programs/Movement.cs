@@ -11,7 +11,7 @@ public class PlayerMove : MonoBehaviour
     public string jenisBangun = "";
     private bool MoveRight, MoveLeft, MoveUp, MoveDown;
     Animator anim;
- 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -23,27 +23,27 @@ public class PlayerMove : MonoBehaviour
         MoveUp = false;
         MoveDown = false;
     }
- 
+
     public void right()
     {
         MoveRight = true;
     }
- 
+
     public void left()
     {
         MoveLeft = true;
     }
- 
+
     public void up()
     {
         MoveUp = true;
     }
- 
+
     public void down()
     {
         MoveDown = true;
     }
- 
+
     public void stop()
     {
         MoveRight = false;
@@ -56,7 +56,7 @@ public class PlayerMove : MonoBehaviour
         anim.SetBool("Up", false);
         anim.SetBool("Down", false);
     }
- 
+
     void AnimationState()
     {
         if (MoveRight)
@@ -97,7 +97,7 @@ public class PlayerMove : MonoBehaviour
             anim.SetBool("Down", false);
         }
     }
- 
+
     void FixedUpdate()
     {
         if (MoveRight)
@@ -121,37 +121,43 @@ public class PlayerMove : MonoBehaviour
             rb.velocity = Vector3.zero;
         }
     }
-    
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Bola"))
         {
-           jenisBangun = "bola";
-            
-        }else if (collision.CompareTag("Limas"))
+            jenisBangun = "bola";
+
+        }
+        else if (collision.CompareTag("Limas"))
         {
             jenisBangun = "limas";
-            
-        }else if (collision.CompareTag("Kerucut"))
+
+        }
+        else if (collision.CompareTag("Kerucut"))
         {
             jenisBangun = "kerucut";
-            
-        }else if (collision.CompareTag("Balok"))
+
+        }
+        else if (collision.CompareTag("Balok"))
         {
             jenisBangun = "balok";
-            
-        }else if (collision.CompareTag("Tabung"))
+
+        }
+        else if (collision.CompareTag("Tabung"))
         {
             jenisBangun = "tabung";
-            
-        }else if (collision.CompareTag("Prisma"))
+
+        }
+        else if (collision.CompareTag("Prisma"))
         {
             jenisBangun = "prisma";
-            
-        }else if (collision.CompareTag("Kubus"))
+
+        }
+        else if (collision.CompareTag("Kubus"))
         {
             jenisBangun = "kubus";
-            
+
         }
     }
     private void OnTriggerExit2D(Collider2D other)
@@ -164,14 +170,13 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         AnimationState();
-        Debug.Log(jenisBangun);
     }
 
-    void OnCollisionEnter(Collision collision) 
+    void OnCollisionEnter(Collision collision)
     {
-       if(gameObject.CompareTag("Penghalang"))
+        if (gameObject.CompareTag("Penghalang"))
         {
-                    rb.velocity = Vector3.zero;
+            rb.velocity = Vector3.zero;
         }
     }
 }

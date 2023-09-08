@@ -65,4 +65,5 @@ public class Navigation : MonoBehaviour
         Application.Quit();
         Debug.Log("Game Ended");
     }
+    
 }

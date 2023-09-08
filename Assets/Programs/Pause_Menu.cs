@@ -11,6 +11,9 @@ public class Pause_Menu : MonoBehaviour
     public bool GetIsPaused() { return isPaused; }
 
     [SerializeField] GameObject pauseMenu = null;
+    [SerializeField] GameObject otherButton = null;
+    // [SerializeField] GameObject counterButton = null;
+    // [SerializeField] GameObject pauseMenu = null;
     void update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -25,6 +28,7 @@ public class Pause_Menu : MonoBehaviour
 
     public void Pause()
     {
+        otherButton.SetActive(false);
         pauseMenu.SetActive(true);
         Time.timeScale = 0;
         isPaused = true;
@@ -32,6 +36,7 @@ public class Pause_Menu : MonoBehaviour
 
     public void Resume()
     {
+        otherButton.SetActive(true);
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;

@@ -445,6 +445,8 @@ MonoBehaviour:
   m_Script: {fileID: -1826476478, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mWorldCenterMode: 2
+  mWorldCenter: {fileID: 0}
 --- !u!81 &1140340685
 AudioListener:
   m_ObjectHideFlags: 0
@@ -663,6 +665,7 @@ GameObject:
   - component: {fileID: 1456350980}
   - component: {fileID: 1456350979}
   - component: {fileID: 1456350978}
+  - component: {fileID: 1456350982}
   m_Layer: 0
   m_Name: ImageTarget
   m_TagString: Untagged
@@ -682,6 +685,13 @@ MonoBehaviour:
   m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1456350980}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: pyramid
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 0}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!114 &1456350979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -694,6 +704,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 886328de6a5c14cbb85854fdf1a5085b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  StatusFilter: 2
+  UsePoseSmoothing: 0
+  AnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 3.3333333
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.3
+      value: 1
+      inSlope: 3.3333333
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  OnTargetFound:
+    m_PersistentCalls:
+      m_Calls: []
+  OnTargetLost:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &1456350980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -706,6 +748,21 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PreviewVisible: 1
+  RuntimeOcclusion: 0
+  RuntimeCollider: 0
+  mTrackableName: pyramid
+  mInitializedInEditor: 1
+  mDataSetPath: 
+  mAspectRatio: 0.996875
+  mImageTargetType: 3
+  mWidth: 0.2
+  mHeight: 0.199375
+  mRuntimeTexture: {fileID: 2800000, guid: 30fa9c00a5eb56944b30dfed11100b95, type: 3}
+  mMotionHint: 1
+  mTrackingOptimization: 0
+  mTrackingOptimizationNeedsUpgrade: 0
+  mPreview: {fileID: 1456350982}
 --- !u!4 &1456350981
 Transform:
   m_ObjectHideFlags: 0
@@ -722,6 +779,25 @@ Transform:
   - {fileID: 1840514809}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1456350982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1456350977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1456350980}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: pyramid
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1456350980}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1482601329
 GameObject:
   m_ObjectHideFlags: 0

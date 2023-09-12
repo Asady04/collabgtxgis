@@ -13,11 +13,13 @@ public class OpenQuiz : MonoBehaviour
     [SerializeField] GameObject prisma = null;
     [SerializeField] GameObject kubus = null;
     [SerializeField] GameObject pause = null;
+    [SerializeField] GameObject book = null;
     [SerializeField] GameObject close = null;
     public GameObject gameObject;
     public void Open()
     {
         pause.SetActive(false);
+        book.SetActive(false);
         close.SetActive(true);
         string jenisBangun = gameObject.GetComponent<PlayerMove>().jenisBangun;
         if (jenisBangun == "bola")
@@ -60,6 +62,7 @@ public class OpenQuiz : MonoBehaviour
         prisma.SetActive(false);
         kubus.SetActive(false);
         pause.SetActive(true);
+        book.SetActive(true);
         close.SetActive(false);
         Time.timeScale = 1;
     }

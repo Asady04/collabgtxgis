@@ -502,14 +502,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: block
+  mTrackableName: Target Image Balok
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1
+  mAspectRatio: 1.0044138
   mImageTargetType: 3
-  mWidth: 0.2
-  mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: c1f09e0a8d7e1744bb5e315a4305af9f, type: 3}
+  mWidth: 0.1991211
+  mHeight: 0.19999999
+  mRuntimeTexture: {fileID: 2800000, guid: 123804788e8d1984eab93e9073ee3ac4, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -544,7 +544,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 805530977}
   mHiddenRoot: {fileID: 0}
-  mTargetName: block
+  mTargetName: Target Image Balok
   mDatasetName: 
   mCastedBehaviour: {fileID: 0}
   mMeshFilter: {fileID: 0}

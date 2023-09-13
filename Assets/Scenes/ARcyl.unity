@@ -755,14 +755,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: cyl
+  mTrackableName: Target Image Tabung
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1
+  mAspectRatio: 1.0044138
   mImageTargetType: 3
-  mWidth: 0.2
-  mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 4a0888a23d6067a41b15cd4f6945c0bb, type: 3}
+  mWidth: 0.1991211
+  mHeight: 0.19999999
+  mRuntimeTexture: {fileID: 2800000, guid: d893225d2e4d30245b4b1d2e430898e1, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -797,7 +797,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1625419444}
   mHiddenRoot: {fileID: 0}
-  mTargetName: cyl
+  mTargetName: Target Image Tabung
   mDatasetName: 
   mCastedBehaviour: {fileID: 0}
   mMeshFilter: {fileID: 0}

@@ -160,7 +160,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000049488, y: -289.19}
+  m_AnchoredPosition: {x: -0.0000049488, y: -254}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &411502520
@@ -816,7 +816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1625419444}
   mHiddenRoot: {fileID: 0}
-  mTargetName: cyl
+  mTargetName: Target Image Tabung
   mDatasetName: 
   mCastedBehaviour: {fileID: 1625419444}
   mMeshFilter: {fileID: 0}
